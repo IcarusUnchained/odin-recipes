@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(63, 63, 63);
+    background-color: bisque;
 }
 
 .header {
@@ -12,7 +12,6 @@ body {
 .list {
     font-size: 25px;
     font-weight: bold;
-    color:rgb(187, 187, 187);
 }
 
 #lasagna {
@@ -24,5 +23,5 @@ body {
 }
 
 #berry-delicious {
-    color: yellow;
+    color: black;
 }
